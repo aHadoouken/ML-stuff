@@ -1,0 +1,16 @@
+{
+    "CONST": {
+        "CALPHA": 20,
+        "C0": 4000,
+		"C1": 2000,
+		"C2": 200,
+		"C3": 10,
+		"CL": 5000,
+		"CD": 10,
+		"CPENALTY": 1e9
+    },
+    "FILES": {
+        "wells": "wells_case1.csv",
+        "map": "map_case1.csv"
+    }
+}
